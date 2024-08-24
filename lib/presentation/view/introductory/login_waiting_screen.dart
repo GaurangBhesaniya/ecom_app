@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:rive/rive.dart';
 
-import 'bottom_navigation/app_bottom_navigation.dart';
+import '../bottom_navigation/app_bottom_navigation.dart';
 import 'on_boarding.dart';
 
 class LoginWaitingScreen extends StatefulWidget {

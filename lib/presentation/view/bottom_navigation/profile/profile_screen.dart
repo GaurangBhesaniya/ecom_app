@@ -2,12 +2,12 @@ import 'dart:ui';
 import 'package:ecom_app/config/app_constant.dart';
 import 'package:ecom_app/controllers/auth_controller.dart';
 import 'package:ecom_app/presentation/common_widgets/profile_card.dart';
-import 'package:ecom_app/presentation/view/splash_screen.dart';
+import 'package:ecom_app/presentation/view/introductory/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ecom_app/config/app_image.dart';
-import 'favourites_screen.dart';
-import 'my_order_view.dart';
+import '../favorite/favourites_screen.dart';
+import 'myorder/my_order_view.dart';
 
 class ProfileScreen extends StatefulWidget {
   static const String routeName = 'ShopLocalScreen';

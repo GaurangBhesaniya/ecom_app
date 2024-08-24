@@ -4,7 +4,7 @@ import 'package:ecom_app/config/app_colors.dart';
 import 'package:ecom_app/config/app_image.dart';
 import 'package:ecom_app/config/helper.dart';
 import 'package:ecom_app/models/shoplocal_product_model.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/product_detail.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/products/product_detail.dart';
 
 class StoreProductScreen extends StatefulWidget {
   const StoreProductScreen({

@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dotted_line/dotted_line.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/product_check_out.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/products/product_check_out.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';

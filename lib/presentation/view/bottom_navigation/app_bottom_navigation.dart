@@ -1,4 +1,4 @@
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/favourites_screen.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/favorite/favourites_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
@@ -6,9 +6,9 @@ import 'package:get/get.dart';
 import 'package:ecom_app/config/app_colors.dart';
 import 'package:ecom_app/config/app_constant.dart';
 import 'package:ecom_app/config/app_image.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/cart_screen.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/new_shop_local.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/profile_screen.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/cart/cart_screen.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/new_shop_local.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/profile/profile_screen.dart';
 
 
 class AppBottomNavigation extends StatefulWidget {

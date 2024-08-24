@@ -5,7 +5,6 @@ import 'package:ecom_app/config/app_colors.dart';
 import 'package:ecom_app/config/app_constant.dart';
 import 'package:ecom_app/config/app_image.dart';
 import 'package:ecom_app/config/helper.dart';
-import 'package:ecom_app/models/order_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

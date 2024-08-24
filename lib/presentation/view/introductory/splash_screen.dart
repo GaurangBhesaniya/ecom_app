@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 import 'package:ecom_app/config/app_anime.dart';
-import 'bottom_navigation/app_bottom_navigation.dart';
+import '../bottom_navigation/app_bottom_navigation.dart';
 import 'on_boarding.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -11,8 +11,8 @@ import 'package:ecom_app/models/shoplocal_selectedProduct_model.dart';
 import 'package:ecom_app/models/shoplocal_storeInfo_model.dart';
 import 'package:ecom_app/models/shoplocal_store_model.dart';
 import 'package:ecom_app/presentation/common_widgets/new_carousal_card.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/product_detail.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/store_product_screen.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/products/product_detail.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/store_product_screen.dart';
 
 import 'new_category_screen.dart';
 

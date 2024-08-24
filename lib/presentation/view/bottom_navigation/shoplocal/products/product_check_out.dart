@@ -4,7 +4,7 @@ import 'package:ecom_app/config/app_colors.dart';
 import 'package:ecom_app/config/app_image.dart';
 import 'package:ecom_app/config/helper.dart';
 import 'package:ecom_app/presentation/common_widgets/custom_slider_button.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/payment_done.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/payment/payment_done.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';

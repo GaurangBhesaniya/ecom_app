@@ -1,12 +1,10 @@
 import 'dart:convert';
-
 import 'package:ecom_app/config/app_anime.dart';
 import 'package:ecom_app/config/app_colors.dart';
 import 'package:ecom_app/config/app_constant.dart';
 import 'package:ecom_app/config/app_image.dart';
-import 'package:ecom_app/models/order_model.dart';
 import 'package:ecom_app/presentation/view/bottom_navigation/app_bottom_navigation.dart';
-import 'package:ecom_app/presentation/view/bottom_navigation/screens/payment_processing_view.dart';
+import 'package:ecom_app/presentation/view/bottom_navigation/shoplocal/payment/payment_processing_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';
